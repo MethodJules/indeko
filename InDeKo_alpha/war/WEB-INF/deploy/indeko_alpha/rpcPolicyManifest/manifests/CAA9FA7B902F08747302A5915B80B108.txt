@@ -1,0 +1,2 @@
+serviceClass: com.indeko.alpha.client.SaveDataService
+path: D048841F726F7458D04D07817DAED87C.gwt.rpc

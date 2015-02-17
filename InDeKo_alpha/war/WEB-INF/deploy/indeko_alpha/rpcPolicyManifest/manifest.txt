@@ -1,0 +1,3 @@
+# Module indeko_alpha
+# RPC service class, partial path of RPC policy file
+com.indeko.alpha.client.SaveDataService, D048841F726F7458D04D07817DAED87C.gwt.rpc
